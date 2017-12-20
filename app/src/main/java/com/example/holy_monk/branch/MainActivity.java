@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void NewMethod(){
         int i = 135 * 34165;
+        String str = "Some string";
     }
 }
