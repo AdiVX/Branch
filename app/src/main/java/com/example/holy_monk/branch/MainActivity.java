@@ -15,4 +15,7 @@ public class MainActivity extends AppCompatActivity {
         str += " Bro";
         String res = str + new String(" Jackal");
     }
+    private void NewMethod(){
+        int i = 135 * 34165;
+    }
 }
