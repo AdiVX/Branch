@@ -15,9 +15,4 @@ public class MainActivity extends AppCompatActivity {
         str += " Bro";
         String res = str + new String(" Jackal");
     }
-    private int Factorial(int i){
-        if(i==0)
-            return 1;
-        return i*Factorial(i-1);
-    }
 }
